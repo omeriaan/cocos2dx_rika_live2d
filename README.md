@@ -1,0 +1,2 @@
+# cocos2dx_rika_live2d
+cocos2dxでLive2Dモデルを表示するアプリ
